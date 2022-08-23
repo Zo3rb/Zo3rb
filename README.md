@@ -35,34 +35,14 @@ Hi, I'm Ali Fakhri!
 
 <p>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a>
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
 
 
 #####  💪 Frameworks and Libraries
 
 <p>
 
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2c292d.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express-2c292d?style=for-the-badge&logo=express&logoColor=ffffff"></a>
-
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-2c292d?style=for-the-badge&logo=Redux&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Next" src="https://img.shields.io/badge/Next_js-2c292d?style=for-the-badge&logo=Next.js&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest_js-2c292d?style=for-the-badge&logo=nestjs&logoColor=ffffff"></a>
-
-<a href="#"><img alt="MUI" src="https://img.shields.io/badge/Material_UI-2c292d?style=for-the-badge&logo=MUI&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2c292d.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff"></a> <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express-2c292d?style=for-the-badge&logo=express&logoColor=ffffff"></a> <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a> <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-2c292d?style=for-the-badge&logo=Redux&logoColor=ffffff"></a> <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next_js-2c292d?style=for-the-badge&logo=Next.js&logoColor=ffffff"></a> <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest_js-2c292d?style=for-the-badge&logo=nestjs&logoColor=ffffff"></a> <a href="#"><img alt="MUI" src="https://img.shields.io/badge/Material_UI-2c292d?style=for-the-badge&logo=MUI&logoColor=ffffff"></a> <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
 
 </p>
 
@@ -70,11 +50,7 @@ Hi, I'm Ali Fakhri!
 
 <p>
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-2c292d.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a> <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a> <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-2c292d.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
 
 </p>
 
@@ -83,15 +59,7 @@ Hi, I'm Ali Fakhri!
 <p>
 
 
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-2c292d?style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2c292d?style=for-the-badge&logo=postman&logoColor=ffffff"></a>
-
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-2c292d?style=for-the-badge&logo=stack-overflow&logoColor=ffffff"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a> <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-2c292d?style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2c292d?style=for-the-badge&logo=postman&logoColor=ffffff"></a> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-2c292d?style=for-the-badge&logo=stack-overflow&logoColor=ffffff"></a>
 
 </p>
 
@@ -101,12 +69,6 @@ Hi, I'm Ali Fakhri!
 
 <p>
 
-<a href="https://drive.google.com/file/d/1dYq21siQegDAIdsmL3z34qqMfCNGp1BQ/view?usp=sharing"><img src="https://img.shields.io/badge/resume-0077B5.svg?style=for-the-badge&logo=resume&logoColor=ffffff"/></a>
-
-<a href="https://www.linkedin.com/in/alif90/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
-<a href="mailto:ali.f90@outlook.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=Microsoft&logoColor=185ABD"/></a>
-
-<a href="https://api.whatsapp.com/send?phone=201141348546" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+<a href="https://drive.google.com/file/d/1dYq21siQegDAIdsmL3z34qqMfCNGp1BQ/view?usp=sharing"><img src="https://img.shields.io/badge/resume-0077B5.svg?style=for-the-badge&logo=resume&logoColor=ffffff"/></a> <a href="https://www.linkedin.com/in/alif90/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> <a href="mailto:ali.f90@outlook.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=Microsoft&logoColor=185ABD"/></a> <a href="https://api.whatsapp.com/send?phone=201141348546" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 
 </p>
