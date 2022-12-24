@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
 
 Hi, I'm Ali Fakhri!
@@ -35,7 +36,7 @@ Hi, I'm Ali Fakhri!
 
 <p>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="C-Programming" src="https://img.shields.io/badge/c-2c292d.svg?style=for-the-badge&logo=c&logoColor=ffffff"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"> <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="C-Programming" src="https://img.shields.io/badge/c-2c292d.svg?style=for-the-badge&logo=c&logoColor=ffffff"></a> <img alt="Python" src="https://img.shields.io/badge/python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
 
 #####  💪 Frameworks and Libraries
 
@@ -49,7 +50,7 @@ Hi, I'm Ali Fakhri!
 
 <p>
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a> <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a> <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-2c292d.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a> <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a> <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-2c292d.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a> <img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a> <img alt="NO-SQL" src="https://img.shields.io/badge/mongodb-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
 
 </p>
 
