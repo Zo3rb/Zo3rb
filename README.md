@@ -10,7 +10,7 @@ Hi, I'm Ali Fakhri!
 
 <p align="left">
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Aiming+to+be+a+great+problem+solver;Kick+Boxer;Freelancer&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Aiming+to+be+a+great+problem+solver;&width=380&height=45"></a>
 
 </p>
 
@@ -22,13 +22,13 @@ Hi, I'm Ali Fakhri!
 
 🌱 Learning about Software & Web Developing.
 
-🌟 Main languages: JavaScript(TypeScript Newbie) & in Progress (C/Python).
+🌟 Main languages: JavaScript(TypeScript Newbie) & (Python).
 
 ```
+I'm Building a stacks on LeetCode at the moment.
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Zo3rb&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <hr>
-
-
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
 
