@@ -26,6 +26,7 @@ Hi, I'm Ali Fakhri!
 
 ```
 I'm Building a stacks on LeetCode at the moment.
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Zo3rb&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <hr>
