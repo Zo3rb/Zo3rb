@@ -16,7 +16,7 @@ Hi, I'm Ali Fakhri!
 
 ```
 
-💻 I am a self taught Full Stack Developer
+💻 I am a self-taught Full Stack Developer
 
 📝 I have a strong interest in Building a Great Stuff.
 
@@ -25,9 +25,9 @@ Hi, I'm Ali Fakhri!
 🌟 Main languages: JavaScript(TypeScript Newbie) & (Python).
 
 ```
-I'm Building a stacks on LeetCode at the moment.
+I'm Building a stack on LeetCode at the moment.
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Zo3rb&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/Zo3rb?theme=dark&bgColor=282828)
 
 <hr>
 
